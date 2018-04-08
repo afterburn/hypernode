@@ -1,0 +1,34 @@
+{
+  "name": "hypernode",
+  "version": "0.0.16",
+  "description": "A modular peer-to-peer networking library that enables you to easily create distributed systems.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "p2p",
+    "blockchain",
+    "dht",
+    "hypernode",
+    "peer",
+    "network"
+  ],
+  "author": "afterburn <k.karsopawiro@gmail.com> (http://tegra.io)",
+  "license": "MIT",
+  "dependencies": {
+    "ip": "^1.1.5",
+    "keypair": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/afterburn/hypernode"
+  },
+  "bugs": {
+    "url": "https://github.com/afterburn/hypernode/issues"
+  },
+  "homepage": "https://github.com/afterburn/hypernode#readme"
+}
