@@ -1,6 +1,6 @@
 {
   "name": "hypernode",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "description": "A modular peer-to-peer networking library that enables you to easily create distributed systems.",
   "main": "index.js",
   "directories": {
