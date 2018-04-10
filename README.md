@@ -2,7 +2,7 @@
 [![Downloads](https://img.shields.io/npm/dt/hypernode.svg)]()
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
-![HyperNode logo](https://raw.githubusercontent.com/afterburn/hypernode/master/assets/hypernode_logo.png)
+![HyperNode logo](https://afterburn.github.io/cdn/images/hypernode.png)
 
 **THIS IS AN UNFINISHED PROJECT**
 
