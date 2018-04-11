@@ -64,5 +64,3 @@ In development
 
 ## License
 Code released under [the MIT license](https://github.com/afterburn/hypernode/blob/master/LICENSE).
-
-Copyright 2017 Hypernode is a trademark maintained by Tegra Development
